@@ -1,5 +1,5 @@
 ### Hi there 👋
-1인개발뚝딱뚝딱
+뚝딱뚝딱
 <!--
 **Songmachi/songmachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
